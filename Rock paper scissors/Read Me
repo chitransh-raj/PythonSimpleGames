@@ -1,0 +1,5 @@
+Rock-Paper-Scissor game without using any external game libraries like PyGame.
+This game is programmed using simple commands.
+In this user plays this game with the computer.
+In this game, the user gets the first chance to pick the option between Rock, paper, and scissors.
+After the computer select from the remaining two choices(randomly), the winner is decided as per the rules.
