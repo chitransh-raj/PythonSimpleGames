@@ -1,0 +1,3 @@
+In this game, the computer selects a random number between two numbers, and the user guesses the selected number.
+In this computer allows users to guess the number in as many attempt as it takes to guess correctly.
+If the user guess it correctly in certain number of attempts than the score is updated as highscore in the highscore.txt file.
